@@ -1,4 +1,4 @@
-- Hi, I’m @Pravashpvsh
+- Hi, I’m Pravash Pokhrel
 - I’m interested in learning coding stuff.
 - I’m interested in programming, developing and exploring IT.
 -  I’m looking to collaborate on enhancing my projects.
