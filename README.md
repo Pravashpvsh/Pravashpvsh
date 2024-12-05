@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pravash Pokhrel</h1>
-<h3 align="center">I am Passionate about coding and adept at engaging in creative pursuits like photo and video editing.</h3>
+<h3 align="center"> I am passionate about developing solutions that have a lasting impact, driving both technological innovation and social progress.</h3>
 
 - 🌱 I’m currently learning **Web development,Game develpoment.**
 
