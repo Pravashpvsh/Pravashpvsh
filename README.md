@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pravash Pokhrel</h1>
-<h3 align="center"> I am passionate about developing solutions driving both technological innovation and social progress.</h3>
+<h3 align="center">I am passionate about developing solutions that drive both technological innovation and social impact.</h3>
 
-- 🌱 I’m currently learning **Web development,Game develpoment.**
+- 🌱 I’m currently learning **Android Development (Dart/Flutter), Software Quality Assurance (SQA), and Cybersecurity.**
+
 
 - 👨‍💻 All of my projects are available at [pravashpokhrel.com.np](https://pravashpokhrel.com.np/)
 
