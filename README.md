@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pravash Pokhrel</h1>
+<h1 align="center">Hi 👋, I'm Pravash Pokh   rel</h1>
 <h3 align="center">I am passionate about developing solutions that drive both technological innovation and social impact.</h3>
 
 - 🌱 I’m currently learning Android Development (Dart/Flutter), Software Quality Assurance (SQA), and Cybersecurity.
